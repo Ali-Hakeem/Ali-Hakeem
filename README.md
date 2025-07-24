@@ -9,7 +9,6 @@ Hi, Hakim here!
 
 - Programmer in a manufacturing company
 - Freelance Programmer in a racing parts industry
-- A guitarist of a metal band 🎸
 
 ## Currently learning
 
